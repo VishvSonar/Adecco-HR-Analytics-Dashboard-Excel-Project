@@ -46,8 +46,8 @@ The dashboard was redesigned with a modern and professional UI to improve readab
 
 ## 📁 Project Structure
 
-* **Raw_Data** → Original dataset
-* **_Data** → Cleaned & processed data
+* **Data_set** → Original dataset
+* **Raw_Data** → Cleaned & processed data
 * **Pivot** → Pivot table calculations
 * **Dashboard** → Final interactive dashboard
 
