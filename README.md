@@ -26,7 +26,7 @@ The dashboard was redesigned with a modern and professional UI to improve readab
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 * Microsoft Excel
 
@@ -44,7 +44,7 @@ The dashboard was redesigned with a modern and professional UI to improve readab
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 * **Data_set** → Original dataset
 * **Raw_Data** → Cleaned & processed data
@@ -53,7 +53,7 @@ The dashboard was redesigned with a modern and professional UI to improve readab
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The goal of this project was to transform raw HR data into meaningful business insights through interactive visualizations and KPI tracking using Excel.
 
@@ -61,7 +61,7 @@ The goal of this project was to transform raw HR data into meaningful business i
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 I’m actively learning and building projects in:
 
